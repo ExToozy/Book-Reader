@@ -1,3 +1,3 @@
 # book_reader
 
-A new Flutter project.
+A Flutter book_reader project.
